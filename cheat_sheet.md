@@ -19,3 +19,5 @@ For changing the actual file
     git commit <filename> -m "<message>" #adding an specific filename into commit, without "git adding it"
     git push #pushes all of the commits to the server
     git pull #pull any changes from the main repository to the working files
+
+# PYTHON CHEATS
