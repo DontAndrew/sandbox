@@ -21,3 +21,5 @@ For changing the actual file
     git pull #pull any changes from the main repository to the working files
 
 # PYTHON CHEATS
+
+    python -m venv venv #create a virtual environment called venv
