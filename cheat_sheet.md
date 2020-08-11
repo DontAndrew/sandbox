@@ -1,11 +1,13 @@
-# GIT CHEATS
+# CHEAT SHEETS FOR ME #
 
-For information within your git
-    git log #history of your commits
-    git status #status of the current repository
-    
-For working in the server repository
-    git clone "<url>" #insert the url of git repository to take every code in it
+> ## GIT CHEATS ##
+>
+>> **For information within your git**
+>>> git log = *history of your commits*</br>
+>>> git status = *status of the current repository*</br>
+>>
+>> **For working in the server repository**
+>>> git clone "<url>" #insert the url of git repository to take every code in it
     git reset --hard <commit> #reverts to the commit
     git reset --hard origin/master #reverts to the origin/master
     git branch #w/o name list all branches
@@ -20,6 +22,6 @@ For changing the actual file
     git push #pushes all of the commits to the server
     git pull #pull any changes from the main repository to the working files
 
-# PYTHON CHEATS
+## PYTHON CHEATS
 
     python -m venv venv #create a virtual environment called venv
