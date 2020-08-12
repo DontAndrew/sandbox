@@ -25,4 +25,4 @@
 >## PYTHON CHEATS ##
 
 >>**Create python environment**
-    python -m venv venv = create a virtual environment called venv</br>
+>>>python -m venv venv = create a virtual environment called venv</br>
